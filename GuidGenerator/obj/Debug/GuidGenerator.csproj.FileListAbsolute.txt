@@ -1,0 +1,10 @@
+C:\Users\Raki\source\repos\GuidGenerator\GuidGenerator\bin\Debug\GuidGenerator.exe.config
+C:\Users\Raki\source\repos\GuidGenerator\GuidGenerator\bin\Debug\GuidGenerator.exe
+C:\Users\Raki\source\repos\GuidGenerator\GuidGenerator\bin\Debug\GuidGenerator.pdb
+C:\Users\Raki\source\repos\GuidGenerator\GuidGenerator\obj\Debug\GuidGenerator.csprojAssemblyReference.cache
+C:\Users\Raki\source\repos\GuidGenerator\GuidGenerator\obj\Debug\GuidGenerator.Form1.resources
+C:\Users\Raki\source\repos\GuidGenerator\GuidGenerator\obj\Debug\GuidGenerator.Properties.Resources.resources
+C:\Users\Raki\source\repos\GuidGenerator\GuidGenerator\obj\Debug\GuidGenerator.csproj.GenerateResource.cache
+C:\Users\Raki\source\repos\GuidGenerator\GuidGenerator\obj\Debug\GuidGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Raki\source\repos\GuidGenerator\GuidGenerator\obj\Debug\GuidGenerator.exe
+C:\Users\Raki\source\repos\GuidGenerator\GuidGenerator\obj\Debug\GuidGenerator.pdb
